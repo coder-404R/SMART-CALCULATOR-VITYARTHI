@@ -146,3 +146,8 @@ How to use AI in real life
 👩‍💻 The person who made this is
 
 Ritika Manchanda
+
+
+
+SCREENSHOT OF THE OUTPUT
+<img width="1347" height="527" alt="Image" src="https://github.com/user-attachments/assets/4fdfaf9d-8144-4216-a26f-6476f3fa6d65" />
