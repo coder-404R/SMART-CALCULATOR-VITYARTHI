@@ -1,0 +1,52 @@
+📌 Problem Statement
+
+Traditional calculators require users to manually select arithmetic operators such as addition, subtraction, multiplication, and division. This makes interaction less intuitive and not user-friendly, especially for beginners or non-technical users. Moreover, conventional calculators cannot understand natural language inputs like “add 5 and 3” or “divide 10 by 2”.
+
+The problem is to develop an intelligent system that can:
+
+Understand user intent from text input
+Automatically identify the required mathematical operation
+Perform calculations without explicit operator selection
+
+This project aims to bridge the gap between human language and machine understanding by integrating Machine Learning into a calculator.
+
+📌 Scope of the Project
+
+The scope of this project includes:
+
+Developing a dual-mode calculator (AI-based and manual mode)
+Implementing text classification using Machine Learning
+Supporting basic arithmetic operations:
+Addition
+Subtraction
+Multiplication
+Division
+Enabling natural language input processing
+Providing a simple and interactive command-line interface
+
+The project is limited to basic operations and simple sentence structures, making it suitable for beginner-level AI/ML implementation.
+
+📌 Target Users
+
+This project is useful for:
+
+🎓 Students and beginners learning programming or mathematics
+👩‍💻 Learners of AI/ML who want to understand practical applications
+🧑‍🏫 Educators demonstrating basic NLP and ML concepts
+👥 General users who prefer simple, natural language interaction
+📌 Limitations
+Limited dataset reduces prediction accuracy
+Can only understand predefined keywords (add, subtract, etc.)
+Cannot process complex or long sentences
+Supports only two numbers at a time
+No support for advanced mathematical operations (like power, trigonometry)
+Works only in text mode (no GUI or voice input)
+📌 Applications
+
+This project can be applied in:
+
+🤖 Chatbots and virtual assistants
+🎤 Voice-based assistants (with speech integration)
+📱 Smart calculator apps
+🎓 Educational tools for teaching AI and ML concepts
+💬 Conversational interfaces where users interact using natural language
